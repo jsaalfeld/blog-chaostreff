@@ -1,0 +1,8 @@
+baseURL = "http://jochen.chaostreff-osnabrueck.de/"
+languageCode = "de-de"
+title = "Mein kleines Blog"
+theme = "basics"
+
+[params]
+    author = "Jochen Saalfeld"
+    github = "jsaalfeld"
